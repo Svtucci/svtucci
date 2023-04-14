@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋 ### 
+<div id="counter" align="left">
+  <img src="https://komarev.com/ghpvc/?username=svtucci&style=flat-square&color=blue" alt=""/>
+</div>
 
 
 
@@ -34,7 +37,6 @@ Here are some ideas to get you started:
 <!-- Backend Section !--> 
 
 <h5 align="center">BACKEND</h2>
-
 <p align="center">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
@@ -62,6 +64,11 @@ Here are some ideas to get you started:
 
 <h2 align="center">STATS</h2>
 <!-- TOP LANGUAGES !-->
+
+<!-- <div align="center">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/svtucci?cardType=github&theme=github-dark&preferLogin=true" alt="My Awesome Stats">
+</div>
+ -->
 <div align="center">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svtucci&layout=compact&theme=vision-friendly-dark)](https://github.com/svtucci/github-readme-stats) 
@@ -74,7 +81,10 @@ Here are some ideas to get you started:
   [![GitHub Streak](https://streak-stats.demolab.com?user=svtucci&theme=highcontrast&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </div>
 
-<div id="counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=svtucci&style=flat-square&color=blue" alt=""/>
-</div>
+
+
+
+
+
+
 
