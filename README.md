@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 
 <h5 align="center">BACKEND</h2>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres" />
+  
+    <img src="" />
   </a>
 </p>
 
@@ -46,8 +46,9 @@ Here are some ideas to get you started:
 
 <h5 align="center">TOOLS/APPS</h2>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,vscode,postman" />
+ 
+    <img src="" />
+  
   </a>
 </p>
 </br>
