@@ -46,5 +46,24 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=github,vscode,postman" />
   </a>
 </p>
+</br>
+<!-- GITHUB STREAK 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=svtucci&theme=dark&hide_border=true&border_radius=4&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+!--> 
 
 
+
+<!-- TOP LANGUAGES !-->
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svtucci&layout=compact&theme=vision-friendly-dark)](https://github.com/svtucci/github-readme-stats) 
+  
+</div>
+
+<!-- STATS !--> 
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=svtucci&theme=highcontrast&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  
+</div>
