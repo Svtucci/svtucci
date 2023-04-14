@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 </div>
 
 
-
+<h1 align="center">ABOUT ME</h1>
+<p align="center">
+  My name is Steve, I am an IT Professional from the USA. I have a passion for the outdoors and a deep interest in technology.
+</p>
                                                                                           
 <h2 align="center">TECH</h2>
 
