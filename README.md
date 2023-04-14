@@ -33,29 +33,33 @@ Here are some ideas to get you started:
 <!-- Backend Section !--> 
 
 <h5 align="center">BACKEND</h2>
+
 <p align="center">
-  
-    <img src="" />
-  </a>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
 </p>
+
+
 
 
 <!-- Tools/Apps section !--> 
 
 <h5 align="center">TOOLS/APPS</h2>
 <p align="center">
- 
-    <img src="" />
-  
-  </a>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
+  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 </p>
-</br>
+
+
 <!-- GITHUB STREAK 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=svtucci&theme=dark&hide_border=true&border_radius=4&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 !--> 
 
-
+<h2 align="center">STATS</h2>
 
 <!-- TOP LANGUAGES !-->
 <div align="center">
