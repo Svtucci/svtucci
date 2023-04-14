@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 
 
+                                                                                          
 <h2 align="center">TECH</h2>
 
 <!-- Front End Section !--> 
@@ -60,17 +61,20 @@ Here are some ideas to get you started:
 !--> 
 
 <h2 align="center">STATS</h2>
-
 <!-- TOP LANGUAGES !-->
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svtucci&layout=compact&theme=vision-friendly-dark)](https://github.com/svtucci/github-readme-stats) 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svtucci&layout=compact&theme=vision-friendly-dark)](https://github.com/svtucci/github-readme-stats) 
   
 </div>
 
 <!-- STATS !--> 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=svtucci&theme=highcontrast&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=svtucci&theme=highcontrast&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </div>
+
+<div id="counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=svtucci&style=flat-square&color=blue" alt=""/>
+</div>
+
