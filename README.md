@@ -35,9 +35,10 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">ABOUT ME</h1>
-<p align="center">
-  My name is Steve, I am an IT Professional from the USA. I have a passion for the outdoors and a deep interest in technology.
-</p>
+<div align="center">
+  <img src="images/zug-valley.jpeg" alt="My Profile Picture" style="display: block; margin: auto;">
+  <p>My name is Steve, I am an IT Professional from the USA. I have a passion for the outdoors and a deep interest in technology.</p>
+</div>
                                                                                           
 <h2 align="center">TECH</h2>
 
