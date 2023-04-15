@@ -18,12 +18,17 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=svtucci&style=flat-square&color=blue" alt=""/>
 </div>
 
-<br />
+<p>
 
 <div id="linkedin" align="left">
   <a href="https://www.linkedin.com/in/stephen-vertucci/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
+<p>
+
+<div id="strava" align="left">
+  <a href="https://www.strava.com/athletes/51360417/"><img src="https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white"></a>
+    </div>
 
 
 
