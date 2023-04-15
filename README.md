@@ -80,6 +80,7 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=svtucci&theme=dark&hide_border=true&border_radius=4&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 !--> 
 
+
 <h2 align="center">STATS</h2>
 <!-- TOP LANGUAGES !-->
 
@@ -87,18 +88,38 @@ Here are some ideas to get you started:
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/svtucci?cardType=github&theme=github-dark&preferLogin=true" alt="My Awesome Stats">
 </div>
  -->
+ 
+ 
 <div align="center">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svtucci&layout=compact&theme=vision-friendly-dark)](https://github.com/svtucci/github-readme-stats) 
   
 </div>
 
-<!-- STATS !--> 
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=svtucci&theme=nord_dark" alt="GitHub Profile Summary Card">
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- EXTRAS !-->
+
+<!-- STATS 
 <div align="center">
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=svtucci&theme=highcontrast&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </div>
-
+!--> 
 
 
 
