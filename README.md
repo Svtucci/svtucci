@@ -82,26 +82,15 @@ Here are some ideas to get you started:
 
 
 <h2 align="center">STATS</h2>
-<!-- TOP LANGUAGES !-->
-
-<!-- <div align="center">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/svtucci?cardType=github&theme=github-dark&preferLogin=true" alt="My Awesome Stats">
-</div>
- -->
- 
- 
-<div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svtucci&layout=compact&theme=vision-friendly-dark)](https://github.com/svtucci/github-readme-stats) 
-  
-</div>
 
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=svtucci&theme=nord_dark" alt="GitHub Profile Summary Card">
+<p id="topLanguages" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svtucci&theme=github_dark">
 </p>
 
-
+<p id="profileGraph" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=svtucci&theme=github_dark" alt="GitHub Profile Summary Card">
+</p>
 
 
 
@@ -115,10 +104,25 @@ Here are some ideas to get you started:
 <!-- EXTRAS !-->
 
 <!-- STATS 
+
+
 <div align="center">
-  
   [![GitHub Streak](https://streak-stats.demolab.com?user=svtucci&theme=highcontrast&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </div>
+
+
+<div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svtucci&layout=compact&theme=vision-friendly-dark)](https://github.com/svtucci/github-readme-stats) 
+</div>
+
+
+ <div align="center">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/svtucci?cardType=github&theme=github-dark&preferLogin=true" alt="My Awesome Stats">
+</div>
+ 
+
+
+
 !--> 
 
 
